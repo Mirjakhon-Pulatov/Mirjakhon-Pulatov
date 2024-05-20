@@ -1,11 +1,11 @@
-<h1 align="center">Hello everyone 👋, I'm Mirjakhon</h1>
+<h1 align="center">Hi 👋, I'm Mirjakhon</h1>
 <h3 align="center">PHP, Laravel developer from Bukhara, Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirjakhon-pulatov&label=Profile%20views&color=0e75b6&style=flat" alt="mirjakhon-pulatov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mirjakhon-pulatov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirjakhon-pulatov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mirjakhon-pulatov-257b23302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirjakhon-pulatov-257b23302" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
